@@ -15,3 +15,5 @@ By default, the script will simply look at the WP post's publish date and look f
 If you've set these variables correctly, and a playlist is entered into C2 for that episode of a program, you should see a simple HTML table that displays Track, Composer, Artist, and a Buy link for Amazon.
 
 Please feel free to configure this file for your own setup; everything is easily customizable.
+
+![Screenshot](./screenshot.png "Screenshot")
